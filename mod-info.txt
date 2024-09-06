@@ -1,0 +1,10 @@
+[mod]
+title: Aironium's Project Pontifex v1.1.1
+
+description: [[Platform ON Transporting Important Field Equipment eXpanded]] | A sucessor to Bridge Relay, but with 10x improvements and optimization [https://discord.gg/RqkMJXt]
+
+
+tags: starting-units, units, experimentals, bridge
+
+minVersion: 1.15
+thumbnail: thumb.jpg
